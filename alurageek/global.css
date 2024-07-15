@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ibm-plex-mono: "IBM Plex Mono";
+  --font-press-start-2p: "Press Start 2P";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --preto-branco: #fff;
+  --color-mediumblue-100: #5d04d9;
+  --color-mediumblue-200: #5300c8;
+  --color-midnightblue: #03318c;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-21xl: 40px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-mini: 15px;
+  --br-11xl: 30px;
+  --br-8xs: 5px;
+}
